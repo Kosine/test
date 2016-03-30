@@ -1,4 +1,7 @@
-#navbar {
-  background-color: #ff0575:
-  display: inline;
+#navbar ul {
+  background-color: #ff0575;
+}
+
+#navbar ul li {
+  display: inline-block;
 }
