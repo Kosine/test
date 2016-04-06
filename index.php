@@ -9,13 +9,7 @@
       <div id="header">
         <h1>Welcome to Sanjay Lindsay's Webpage</h1>
         <div id="navbar">
-          <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="Links/About.html">About Me</a></li>
-            <li><a href="Links/Projects.html">Projects</a></li>
-            <li><a href="Links/Resume.html">Resume</a></li>
-            <li><a href="Links/Contact.html">Contact</a></li>
-          </ul>
+          <?php include('PHP/nav.php'); ?>
       </div>
       <div id="main-content">
         <p>

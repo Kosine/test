@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Resume</title>
+    <title>Projects</title>
+    <?php include('nav.php'); ?>
   </head>
   <body>
     <p>
