@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Projects</title>
-    <?php include('nav.php'); ?>
+    <?php include('PHP/nav.php'); ?>
   </head>
   <body>
     <p>

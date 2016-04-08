@@ -1,7 +1,7 @@
 <ul>
-  <li><a href="index.php">Home</a></li>
-  <li><a href="Links/Contact.php">Contact</a></li>
-  <li><a href="Links/Resume.php">Resume</a></li>
-  <li><a href="Links/Projects.php">Projects</a></li>
-  <li><a href="Links/About.php">About me</a></li>
+  <li><a href="/">Home</a></li>
+  <li><a href="/Contact.php">Contact</a></li>
+  <li><a href="/Resume.php">Resume</a></li>
+  <li><a href="/Projects.php">Projects</a></li>
+  <li><a href="/About.php">About me</a></li>
 </ul>
