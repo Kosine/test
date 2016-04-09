@@ -1,0 +1,25 @@
+#navbar ul {
+  background-color: #ff0575;
+}
+
+#navbar ul li {
+  display: inline-block;
+}
+#navbar {
+  position: absolute;;
+  width: 100%;
+  border: 4px solid white;
+  background-color: #ff0575;
+  top: 0;
+  margin-right: 15px;
+}
+#header h1 {
+  position: relative;
+}
+body {
+  background-image: url("Images/pexels-photo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+
+}
