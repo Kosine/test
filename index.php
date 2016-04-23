@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Sanjay Lindsay</title>
+    <link rel = "shortcut icon" href = "./Images/Logo.png">
+    <title>Sanjay Lindsay | Web developer</title>
     <link href="main.css" rel="stylesheet" type="text/css">
   </head>
   <body>
     <div id="everything">
       <div id="header">
+        <?php include('PHP/header.php'); ?>
         <h1>Welcome to Sanjay Lindsay's Webpage</h1>
-        <div id="navbar">
+          <div id="navbar">
           <?php include('PHP/nav.php'); ?>
       </div>
       <div id="main-content">

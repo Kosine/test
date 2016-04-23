@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Projects</title>
+    <?php include('PHP/header.php'); ?>
     <?php include('PHP/nav.php'); ?>
   </head>
   <body>
